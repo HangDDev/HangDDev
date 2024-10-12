@@ -25,7 +25,7 @@
 
 ---
 
-### Want a bot for your Discord server?
+### Want a bot for your Discord server? (NOT Free)
 
 - :mailbox: Contack: [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/707865025007845387)
 
