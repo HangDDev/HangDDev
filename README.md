@@ -25,12 +25,6 @@
 
 ---
 
-### Want a bot for your Discord server? (NOT Free)
-
-- :mailbox: Contack: [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/707865025007845387)
-
----
-
 ### 🔥My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HangDDev&theme=dark&background=000000)](https://git.io/streak-stats)
