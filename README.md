@@ -1,3 +1,4 @@
+<div id="views" align="center">
 <a href="https://discord.com/users/707865025007845387">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -5,9 +6,6 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=HangDDev&style=flat-square&color=blue" alt=""/>
 </div>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 </div>
 
 ---
